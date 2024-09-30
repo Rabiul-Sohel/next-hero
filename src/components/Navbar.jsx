@@ -21,10 +21,7 @@ const Navbar = () => {
             title: 'Image Gallery',
             path: '/image'
         },
-        {
-            title: 'About',
-            path: '/about'
-        }
+        
     ]
     return (
         <div className='flex justify-center items-center gap-5 my-10'>
